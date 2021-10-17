@@ -12,6 +12,7 @@ body {
   margin-bottom: 1px;
     
   }
+/*
 .navbutton{
   text-decoration: none;
   color:black;
@@ -20,10 +21,10 @@ body {
   background-color: rgb(30, 118, 158);
   border-radius: 10px;
   }
-
+*/
 .principal-bar{
   background-color: rgb(161, 198, 212);
-  width: 1450px;
+  width: 95%;
   border: 10px solid rgb(7, 78, 110);
   border-radius: 8px;
   padding: 50x;

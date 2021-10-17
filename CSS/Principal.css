@@ -169,6 +169,9 @@ body {
     padding: 1px;
 }
 .Body{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
   background-color: rgb(161, 198, 212);
   width: 95%;
   border: 10px transparent;
